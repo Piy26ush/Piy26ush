@@ -1,113 +1,93 @@
 # Hi, I'm Piyush Waghjale 👋
 
-### Applied AI • Backend Systems • Mobile Applications
+### Applied AI Engineer | Backend Systems | Mobile Applications
 
-Final-year Computer Engineering student at VIIT Pune with hands-on experience building AI-integrated software systems, intelligent mobile applications, and full-stack platforms.
+B.Tech Computer Engineering @ VIIT Pune (2023–2027)
 
-My primary interest lies in Applied AI Engineering — combining machine learning, LLMs, backend systems, and real-world applications to solve practical problems.
+I build AI-powered systems at the intersection of machine learning, backend engineering, and real-world deployment. My interests include Retrieval-Augmented Generation (RAG), LLM applications, intelligent automation, and production-oriented AI systems.
 
 ---
 
-## 🚀 What I'm Currently Working On
+## 🎯 Current Focus
 
-* Retrieval-Augmented Generation (RAG) Systems
-* Voice AI Applications
-* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* LLM-powered Applications
+* Voice AI Systems
 * Backend Architecture & APIs
-* Data Structures & Algorithms
-* Production-Oriented AI Systems
+* Production ML Deployment
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-
-Python • JavaScript • Java • SQL
-
-### AI / ML
-
-Scikit-Learn • NLP • Intent Classification • Prompt Engineering • RAG Systems • LLM Applications
-
-### Backend
-
-Flask • REST APIs • MongoDB • Docker
-
-### Frontend & Mobile
-
-React Native • React.js • TypeScript • HTML • CSS
-
-### Cloud & Tools
-
-AWS • Git • GitHub • Postman • Vercel • Netlify
+| Area                  | Technologies                                                              |
+| --------------------- | ------------------------------------------------------------------------- |
+| **AI / ML**           | Python · Scikit-Learn · NLP · RAG Systems · LLM APIs · Prompt Engineering |
+| **Backend**           | Flask · REST APIs · MongoDB · Docker                                      |
+| **Frontend & Mobile** | React · TypeScript · React Native · Tailwind CSS                          |
+| **Cloud & Tools**     | AWS · Vercel · Supabase · Git · GitHub                                    |
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### ⚡ AI-Driven EV Cyber Shield
 
-Real-time EV cyberattack detection and recovery framework using machine learning.
+Real-time EV cyberattack detection and workload recovery framework powered by machine learning.
 
 * 97.8% DoS attack detection accuracy
 * Intelligent ECU workload switching
-* Digital twin dashboard
-* Deployed on Vercel
+* Recovery verification using Random Forest & XGBoost
+* Interactive digital twin dashboard
 
-🔗 https://ev-cyber-shield.vercel.app
+🔗 Live Demo: https://ev-cyber-shield.vercel.app
 
 ---
 
 ### 🎙 Voice Intent Recognition App
 
-Mobile voice assistant built with React Native and Flask.
+Mobile voice assistant featuring:
 
 * Speech-to-text pipeline
 * Intent classification engine
-* REST API architecture
-* Modular AI backend
+* Flask REST API backend
+* Modular AI architecture
 
----
-
-### 💪 FitCheck
-
-Full-stack fitness platform.
-
-* Workout tracking
-* Nutrition monitoring
-* Community features
-* MongoDB-powered backend
+🔗 Repository: https://github.com/Piy26ush/voice-ml
 
 ---
 
 ### 📰 Insight News
 
-Personalized news aggregation platform.
+AI-powered personalized news platform built using modern web technologies.
 
-* Modern responsive UI
-* Real-time news delivery
-* API integration
-* Deployed online
+* Real-time news aggregation
+* Responsive React + TypeScript frontend
+* Supabase integration
+* Modern user experience
 
-🔗 https://insight-news-ruddy.vercel.app
+🔗 Live Demo: https://insight-news-ruddy.vercel.app
 
 ---
 
-## 📚 Research
+### 💪 FitCheck
 
-### Multi-Objective Optimization for Chemical Synthesis Planning using Retrieval-Augmented Language Models
+Full-stack fitness platform focused on workout tracking, nutrition monitoring, and community engagement.
 
-Research involving:
+---
+
+## 📄 Research
+
+### AIMLA 2026 (IEEE)
+
+**Multi-Objective Optimization for Chemical Synthesis Planning using Retrieval-Augmented Language Models**
 
 * RAG Pipelines
 * NSGA-II
-* MCTS
-* LLM Grounding
+* Monte Carlo Tree Search (MCTS)
 * Multi-objective Optimization
 
-### Statistical Quality Analysis using Regression and ANOVA for Data-Driven Process Optimization
-
-Research involving:
+**Statistical Quality Analysis using Regression and ANOVA for Data-Driven Process Optimization**
 
 * Regression Analysis
 * ANOVA
@@ -116,26 +96,18 @@ Research involving:
 
 ---
 
-## 🎯 Career Goal
+## 📊 GitHub Stats
 
-To become an Applied AI Engineer focused on building intelligent systems that combine AI models, backend architecture, and scalable software engineering.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piy26ush\&show_icons=true\&hide_border=true)
 
----
-
-## 📈 2026 Goals
-
-* Build production-grade AI applications
-* Strengthen DSA and problem solving
-* Contribute to open source
-* Secure an AI / Software Engineering internship
-* Publish impactful AI projects
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Piy26ush\&layout=compact\&hide_border=true)
 
 ---
 
 ## 📫 Connect
 
-LinkedIn:https://www.linkedin.com/in/piyushwaghjale/
+💼 LinkedIn: https://linkedin.com/in/piyushwaghjale
 
-GitHub: github.com/Piy26ush
+📧 Email: [piyushwaghjale26@gmail.com](mailto:piyushwaghjale26@gmail.com)
 
-Email: [piyushwaghjale26@gmail.com](mailto:piyushwaghjale26@gmail.com)
+🐙 GitHub: https://github.com/Piy26ush
