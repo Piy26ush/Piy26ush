@@ -134,7 +134,7 @@ To become an Applied AI Engineer focused on building intelligent systems that co
 
 ## 📫 Connect
 
-LinkedIn: [linkedin.com/in/piyushwaghjale]
+LinkedIn:https://www.linkedin.com/in/piyushwaghjale/
 
 GitHub: github.com/Piy26ush
 
