@@ -1,113 +1,43 @@
 # Hi, I'm Piyush Waghjale 👋
 
-### Applied AI Engineer | Backend Systems | Mobile Applications
+**Applied AI Engineer in the making** — B.Tech Computer Engineering @ VIIT Pune (2023–2027)
 
-B.Tech Computer Engineering @ VIIT Pune (2023–2027)
-
-I build AI-powered systems at the intersection of machine learning, backend engineering, and real-world deployment. My interests include Retrieval-Augmented Generation (RAG), LLM applications, intelligent automation, and production-oriented AI systems.
+I build AI-powered systems at the intersection of machine learning, backend engineering, and real-world deployment. Currently focused on RAG pipelines, LLM applications, and production-grade ML systems.
 
 ---
 
-## 🎯 Current Focus
+## 🔨 What I Build
 
-* Retrieval-Augmented Generation (RAG)
-* LLM-powered Applications
-* Voice AI Systems
-* Backend Architecture & APIs
-* Production ML Deployment
-
----
-
-## 🛠 Tech Stack
-
-| Area                  | Technologies                                                              |
-| --------------------- | ------------------------------------------------------------------------- |
-| **AI / ML**           | Python · Scikit-Learn · NLP · RAG Systems · LLM APIs · Prompt Engineering |
-| **Backend**           | Flask · REST APIs · MongoDB · Docker                                      |
-| **Frontend & Mobile** | React · TypeScript · React Native · Tailwind CSS                          |
-| **Cloud & Tools**     | AWS · Vercel · Supabase · Git · GitHub                                    |
+| Area | Stack |
+|---|---|
+| **AI / ML** | Python · Scikit-Learn · NLP · RAG Systems · LLM APIs · Prompt Engineering |
+| **Backend** | Flask · REST APIs · MongoDB · Docker |
+| **Frontend & Mobile** | React · TypeScript · React Native · Tailwind CSS |
+| **Cloud & Tools** | AWS · Vercel · Supabase · Git |
 
 ---
 
 ## 🚀 Featured Projects
 
-### ⚡ AI-Driven EV Cyber Shield
+**[AI-Driven EV Cyber Shield](https://ev-cyber-shield.vercel.app)**
+Real-time EV cyberattack detection using a 4-stage ML pipeline (SVM, RF, GBT, XGBoost) — 97.8% DoS detection accuracy. Deployed on Vercel.
 
-Real-time EV cyberattack detection and workload recovery framework powered by machine learning.
+**[Voice ML](https://github.com/Piy26ush/voice-ml)**
+Mobile voice assistant with speech-to-text pipeline, intent classification engine, and modular Flask backend.
 
-* 97.8% DoS attack detection accuracy
-* Intelligent ECU workload switching
-* Recovery verification using Random Forest & XGBoost
-* Interactive digital twin dashboard
-
-🔗 Live Demo: https://ev-cyber-shield.vercel.app
-
----
-
-### 🎙 Voice Intent Recognition App
-
-Mobile voice assistant featuring:
-
-* Speech-to-text pipeline
-* Intent classification engine
-* Flask REST API backend
-* Modular AI architecture
-
-🔗 Repository: https://github.com/Piy26ush/voice-ml
-
----
-
-### 📰 Insight News
-
-AI-powered personalized news platform built using modern web technologies.
-
-* Real-time news aggregation
-* Responsive React + TypeScript frontend
-* Supabase integration
-* Modern user experience
-
-🔗 Live Demo: https://insight-news-ruddy.vercel.app
-
----
-
-### 💪 FitCheck
-
-Full-stack fitness platform focused on workout tracking, nutrition monitoring, and community engagement.
+**[Insight News](https://insight-news-ruddy.vercel.app)**
+AI-powered personal news aggregator with React/TypeScript frontend and Supabase backend.
 
 ---
 
 ## 📄 Research
 
-### AIMLA 2026 (IEEE)
-
-**Multi-Objective Optimization for Chemical Synthesis Planning using Retrieval-Augmented Language Models**
-
-* RAG Pipelines
-* NSGA-II
-* Monte Carlo Tree Search (MCTS)
-* Multi-objective Optimization
-
-**Statistical Quality Analysis using Regression and ANOVA for Data-Driven Process Optimization**
-
-* Regression Analysis
-* ANOVA
-* Statistical Modeling
-* Process Optimization
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piy26ush\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Piy26ush\&layout=compact\&hide_border=true)
+- **Multi-Objective Optimization for Chemical Synthesis Planning using RAG** — AIMLA 2026 (IEEE)
+- **Statistical Quality Analysis using Regression and ANOVA** — AIMLA 2026 (IEEE)
 
 ---
 
 ## 📫 Connect
 
-💼 LinkedIn: https://linkedin.com/in/piyushwaghjale
-
-📧 Email: [piyushwaghjale26@gmail.com](mailto:piyushwaghjale26@gmail.com)
-
-🐙 GitHub: https://github.com/Piy26ush
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-piyushwaghjale-blue?style=flat&logo=linkedin)](https://linkedin.com/in/piyushwaghjale)
+[![Email](https://img.shields.io/badge/Email-piyushwaghjale26%40gmail.com-red?style=flat&logo=gmail)](mailto:piyushwaghjale26@gmail.com)
