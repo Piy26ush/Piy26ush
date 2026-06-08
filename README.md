@@ -38,6 +38,8 @@ AI-powered personal news aggregator with React/TypeScript frontend and Supabase 
 ---
 
 ## 📫 Connect
+💼 LinkedIn: https://linkedin.com/in/piyushwaghjale
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-piyushwaghjale-blue?style=flat&logo=linkedin)](https://linkedin.com/in/piyushwaghjale)
-[![Email](https://img.shields.io/badge/Email-piyushwaghjale26%40gmail.com-red?style=flat&logo=gmail)](mailto:piyushwaghjale26@gmail.com)
+📧 Email: piyushwaghjale26@gmail.com
+
+🐙 GitHub: https://github.com/Piy26ush
